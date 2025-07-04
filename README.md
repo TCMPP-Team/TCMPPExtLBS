@@ -1,4 +1,4 @@
-# TCMPPExtScanCode
+# TCMPPExtLBS
 
 TCMPPExtLBS is a Swift Package Manager package for the iOS platform.
 
@@ -15,7 +15,7 @@ TCMPPExtLBS is a Swift Package Manager package for the iOS platform.
 Add the dependency in Xcode:
 
 1. Select File > Add Packages...
-2. Enter the repository URL: `https://github.com/TCMPP-Team/TCMPPExtScanCode.git`
+2. Enter the repository URL: `https://github.com/TCMPP-Team/TCMPPExtLBS.git`
 3. Choose a version rule (it is recommended to use Up to Next Major Version)
 4. Click Add Package
 
